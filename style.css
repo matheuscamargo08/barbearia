@@ -1,9 +1,14 @@
 body {
     background: #CCCCCC
 }
+h1 {
+    text-align: center;
+    color: rgba(56, 202, 88, 0.863);
+}
 
 p {
     text-align: center;
+    color: aqua;
 }
 
 em strong {
